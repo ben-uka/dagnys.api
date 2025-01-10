@@ -1,0 +1,34 @@
+[
+  {
+    "productId": 1,
+    "productName": "Rågmjöl"
+  },
+  {
+    "productId": 2,
+    "productName": "Malt"
+  },
+  {
+    "productId": 3,
+    "productName": "Vetemjöl"
+  },
+  {
+    "productId": 4,
+    "productName": "Majsmjöl"
+  },
+  {
+    "productId": 5,
+    "productName": "Havremjöl"
+  },
+  {
+    "productId": 6,
+    "productName": "Kanel"
+  },
+  {
+    "productId": 7,
+    "productName": "Saffran"
+  },
+  {
+    "productId": 8,
+    "productName": "Kanel"
+  }
+]

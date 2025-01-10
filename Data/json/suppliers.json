@@ -1,0 +1,18 @@
+[
+  {
+    "supplierId": 1,
+    "name": "Kärna AB",
+    "address": "Kärngatan 1, Oxie",
+    "contact": "Tage Grönblom",
+    "phone": "+46 10-390 81 22",
+    "email": "info@karna.se"
+  },
+  {
+    "supplierId": 2,
+    "name": "Kvarnen",
+    "address": "Kvarnvägen 19, Vällinge",
+    "contact": "Rasmus Ahlander",
+    "phone": "+46 10-900 53 51",
+    "email": "info@kvarnen.se"
+  }
+]

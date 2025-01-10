@@ -1,0 +1,56 @@
+[
+  {
+    "productId": 1,
+    "supplierId": 1,
+    "articleNumber": "M3051",
+    "price": 15
+  },
+  {
+    "productId": 2,
+    "supplierId": 1,
+    "articleNumber": "M3140",
+    "price": 32
+  },
+  {
+    "productId": 3,
+    "supplierId": 2,
+    "articleNumber": "MM3057",
+    "price": 17
+  },
+  {
+    "productId": 4,
+    "supplierId": 2,
+    "articleNumber": "GG1009",
+    "price": 59
+  },
+  {
+    "productId": 5,
+    "supplierId": 1,
+    "articleNumber": "M3401",
+    "price": 25
+  },
+  {
+    "productId": 5,
+    "supplierId": 2,
+    "articleNumber": "MM9001",
+    "price": 27
+  },
+  {
+    "productId": 6,
+    "supplierId": 1,
+    "articleNumber": "K6101",
+    "price": 45
+  },
+  {
+    "productId": 7,
+    "supplierId": 1,
+    "articleNumber": "K7102",
+    "price": 120
+  },
+  {
+    "productId": 8,
+    "supplierId": 2,
+    "articleNumber": "KK8303",
+    "price": 60
+  }
+]
