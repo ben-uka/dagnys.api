@@ -81,7 +81,6 @@ public class SuppliersProductsController(DataContext context) : ControllerBase
     {
         var result = await _context
             .SuppliersProducts.Include(sp => sp.Supplier)
-            .Include(sp => sp.Product)
             .Where(c => c.Product.ProductName.ToUpper().Trim() == productName.ToUpper().Trim())
             .Select(sp => new
             {

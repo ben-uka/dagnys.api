@@ -1,4 +1,5 @@
 using Dagnys_API.Data;
+using Dagnys_API.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
