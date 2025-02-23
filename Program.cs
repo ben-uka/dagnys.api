@@ -11,8 +11,8 @@ var serverVersion = new MySqlServerVersion(new Version(9, 1, 0));
 
 builder.Services.AddDbContext<DataContext>(options =>
 {
-    options.UseMySql(builder.Configuration.GetConnectionString("MySQL"), serverVersion);
-    // options.UseSqlite(builder.Configuration.GetConnectionString("Sqlite"));
+    // options.UseMySql(builder.Configuration.GetConnectionString("MySQL"), serverVersion);
+    options.UseSqlite(builder.Configuration.GetConnectionString("Sqlite"));
 });
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
@@ -47,7 +47,7 @@ using (var scope = app.Services.CreateScope())
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<DataContext>();
 
-    // await Seed.LoadAddressTypes(context);
+    await Seed.LoadAddressTypes(context);
     await Seed.LoadPostalAddresses(context);
     await Seed.LoadProducts(context);
     await Seed.LoadCustomers(context);
