@@ -1,0 +1,24 @@
+[
+    {
+      "orderItemId": 1,
+      "orderId": 1,
+      "productId": 1,
+      "quantity": 2,
+      "pricePerUnit": 25.0
+    },
+    {
+      "orderItemId": 2,
+      "orderId": 1,
+      "productId": 2,
+      "quantity": 1,
+      "pricePerUnit": 45.0
+    },
+    {
+      "orderItemId": 3,
+      "orderId": 2,
+      "productId": 2,
+      "quantity": 1,
+      "pricePerUnit": 45.0
+    }
+  ]
+  

@@ -1,0 +1,30 @@
+[
+  {
+      "storeName": "Floura AB",
+      "phone": "010-484 99 00",
+      "email": "info@floura.com",
+      "contactPerson": "Anna Svensson",
+      "addresses": [
+          {
+              "addressLine": "Violvägen 17",
+              "zipCode": "43222",
+              "city": "Göteborg",
+              "addressType": 1
+          }
+      ]
+  },
+  {
+      "storeName": "Brödboden",
+      "phone": "010-484 99 01",
+      "email": "info@brodboden.com",
+      "contactPerson": "Erik Andersson",
+      "addresses": [
+          {
+              "addressLine": "Östra Gatan 1",
+              "zipCode": "12345",
+              "city": "Stockholm",
+              "addressType": 2
+          }
+      ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+    {
+      "productId": 1,
+      "productName": "Kardemummabulle",
+      "price": 25.0,
+      "weight": 0.15,
+      "unit": "kg",
+      "bestBeforeDate": "2025-03-01T00:00:00Z",
+      "bakedOnDate": "2025-02-20T00:00:00Z"
+    },
+    {
+      "productId": 2,
+      "productName": "Surdegsbröd",
+      "price": 45.0,
+      "weight": 0.5,
+      "unit": "kg",
+      "bestBeforeDate": "2025-03-05T00:00:00Z",
+      "bakedOnDate": "2025-02-18T00:00:00Z"
+    }
+  ]
+  

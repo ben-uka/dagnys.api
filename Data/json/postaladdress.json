@@ -1,0 +1,5 @@
+[
+    { "id": 1, "zipCode": "12345", "city": "Stockholm" },
+    { "id": 2, "zipCode": "54321", "city": "Göteborg" }
+  ]
+  

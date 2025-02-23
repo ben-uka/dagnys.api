@@ -1,0 +1,14 @@
+[
+  {
+      "addressLine": "Violvägen 17",
+      "zipCode": "43222",
+      "city": "Göteborg",
+      "addressTypeId": 1
+  },
+  {
+      "addressLine": "Östra Gatan 1",
+      "zipCode": "12345",
+      "city": "Stockholm",
+      "addressTypeId": 2
+  }
+]
